@@ -91,9 +91,9 @@ int main(int argc, char* argv[]) {
 ```
 ### 存储器结构
 
-![image](6FAFE98991204843B8E0D4D3D2165704)
+![image](./pics/memory_architecture.png)
 
-![image](C4CE871EB949435DA678FF17A383A974)
+![image](./pics/The_features_of_all_memories.png)
 
 
 #### Global Memory
